@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "ags run app.tsx"
+  },
   "dependencies": {
     "ags": "*",
     "gnim": "*"
